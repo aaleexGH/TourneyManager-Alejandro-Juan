@@ -1,0 +1,14 @@
+# Base de datos SQLite
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Carpetas de compilacion y distribucion de NetBeans
+build/
+dist/
+nbproject/private/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
